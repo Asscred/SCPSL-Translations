@@ -4,10 +4,10 @@ Obrażenia
 Penetracja
 Szybkostrzelność
 Odrzut
-Odrzut podczas celowania
+Odrzut ADS
 Celność pocisku
-Celność z biodra
-Celność przy celowaniu
+Celność
+Celność ADS
 Prędkość dobywania
 Głośność wystrzału
 Pojemność magazynka
