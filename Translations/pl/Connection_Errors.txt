@@ -1,4 +1,4 @@
-<size=80>ZOSTAŁEŚ WYRZUCONY</size>\nSerwer wymusił rozłączenie.\n<size=26>\nZostałeś prawdopodobnie czasowo zablokowany przez administratora\n lub nie spełniasz wymagań serwera (np. wersja gry).\nZa ewentualne blokady autorzy gry <b>nie</b> ponoszą odpowiedzialności.\n</size>
+<size=80>ZOSTAŁEŚ WYRZUCONY</size>\nSerwer wymusił rozłączenie.
 <size=80>ROZŁĄCZONO</size>\nWybrany host jest niedostępny.
 <size=80>ROZŁĄCZONO</size>\nWybrany identyfikator połączeń nie istnieje.
 <size=80>ROZŁĄCZONO</size>\nWybrany kanał nie istnieje.
